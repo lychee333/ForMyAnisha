@@ -65,7 +65,7 @@
             <h2>📖 Flip the Book 📖</h2>
             <p>Click the button to reveal a cute message!</p>
             <button class="btn" onclick="revealNote()">Flip!</button>
-            <p id="note">💌 [You are the most beautiful, smart (not really), and wonderful person ever! I adore every picture, every TikTok, and every moment with you! 💕] 💌</p>
+            <p id="note">💌 [] 💌</p>
         </div>
 
         <div class="gallery">
