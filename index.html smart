@@ -65,7 +65,7 @@
             <h2>📖 Flip the Book 📖</h2>
             <p>Click the button to reveal a cute message!</p>
             <button class="btn" onclick="revealNote()">Flip!</button>
-            <p id="note">💌 [Your love message will appear here!] 💌</p>
+            <p id="note">💌 [You are the most beautiful, smart (not really), and wonderful person ever! I adore every picture, every TikTok, and every moment with you! 💕] 💌</p>
         </div>
 
         <div class="gallery">
@@ -79,7 +79,7 @@
             <h2>💘 Love Quiz! 💘</h2>
             <p>What do I love most about you?</p>
             <button class="btn" onclick="revealAnswer()">Reveal Answer</button>
-            <p id="answer" style="display:none;">Everything! Your kindness, beauty, and the way you make me smile every day. ❤️</p>
+            <p id="answer" style="display:none;">Everything dumbasss Your kindness, your beauty, and the way you make me smile every AND ANNOY ME every day. ❤️</p>
         </div>
 
         <div class="secret-message">
